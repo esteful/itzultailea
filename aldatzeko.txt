@@ -1,0 +1,4 @@
+
+Hau testu eredu bat da. Pythoneko scripta exekutatu eta gero amarillo edo azul koloreen izenak erderatik euskarara itzuliko dira, aldatzeko.txt testutik aldatuta.txt artxibora. 
+
+
